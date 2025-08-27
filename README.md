@@ -9,3 +9,5 @@ Pokémon bilgilerini https://pokeapi.co/api/v2/pokemon/
  API’sinden çeker.
 
 Pokémon adı, tipi, resmi ve diğer bilgileri görüntüler.
+
+Bu bağlantıdan inceleyebilirsiniz: delicate-liger-7ec634.netlify.app
