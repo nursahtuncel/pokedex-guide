@@ -10,4 +10,6 @@ Pokémon bilgilerini https://pokeapi.co/api/v2/pokemon/
 
 Pokémon adı, tipi, resmi ve diğer bilgileri görüntüler.
 
-Bu bağlantıdan inceleyebilirsiniz: delicate-liger-7ec634.netlify.app
+Bu bağlantıdan inceleyebilirsiniz: 
+
+https://delicate-liger-7ec634.netlify.app/
